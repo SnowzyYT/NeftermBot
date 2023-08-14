@@ -1,1 +1,18 @@
-
+[
+    {
+      "name": "Soon",
+      "aliases": [],
+      "clientPermissions": [
+        "EMBED_LINKS",
+        "ADD_REACTIONS"
+      ],
+      "group": "soon",
+      "description": "Soon",
+      "parameters": [
+        "Soon"
+      ],
+      "examples": [
+        "Soon"
+      ]
+    }
+] 
